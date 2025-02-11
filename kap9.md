@@ -79,3 +79,14 @@ mindmap
 |Wirtschaftspolitische Ziele|Hoher Wohlstand, tiefe Arbeitslosigkeit, stabile Preise, gesunde Staatsfinanzen|
 |Zielkonflikte|Kurzfristig ja, langfristig nein|
 |Zusatzziele|Umweltqualität und sozialer Ausgleich, schwer zu definieren|
+|Knappheitssignal|Preise vermitteel Information überknappheit|
+|Allokationsfunktion (Preis)|Knappheitssignla führt zu einer effihienten Zuweisung von Ressourcen.|
+|Koordinationsfunktino (Preis)|koordieniern Anbieter und Nachfrager|
+|innovationsanreize (Preis)|Geld verdienen lohnt sich|
+|Subtitiontionsgut| Ersetzbare Güter *Bsp.: Coca-Cola und Pepsi*|
+|Komplementärgut|Güter die zusammen genutzt werden *Bsp.: Playstation und Spiele*|
+|Preiselastizität|Sagt aus wie steil die Nachfrage ist|
+|Aufgaben vom Staat|Eigentums und vertagsrechte garantieren, Eingriffe in Wirschaft so gering wie möglich, Marktversagen korriegieren|
+|Wirtschaftspolitische Ziele|hoher Wohlstand, tiefe Arbeitslosigkeit, stablie Preise, gesunde Staatsfinanzen|
+
+
