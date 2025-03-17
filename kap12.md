@@ -1,4 +1,5 @@
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'background': '#ffffff'}}}%%
 mindmap
   root(Arbeitslosigkeit)
     1(Sockelarbeitslosigkeit)
